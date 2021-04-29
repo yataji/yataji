@@ -13,6 +13,11 @@
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="docker" src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="unix/linux" src="https://img.shields.io/badge/unix/linux-orange?style=for-the-badge&logo=linux&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
+  <img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
+  <img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/>
+  <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
+
 </p>
 
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=yataji)](https://github.com/yataji)
