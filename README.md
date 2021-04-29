@@ -17,14 +17,14 @@
 
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=yataji)](https://github.com/yataji)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=83wid&theme=merko)](https://github.com/yataji)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yataji&theme=merko)](https://github.com/yataji)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=83wid&layout=demo&theme=merko)](https://github.com/yataji)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yataji&layout=demo&theme=merko)](https://github.com/yataji)
 
 - 👨🏽‍💻 I’m currently studying at  [1337 School](https://1337.ma)
 
-[![Twitter: imthepk](https://img.shields.io/twitter/follow/83wid?style=social)](https://twitter.com/83wid)
-[![GitHub yataji](https://img.shields.io/github/followers/83wid?style=social)](https://github.com/yataji)
+[![Twitter: imthepk](https://img.shields.io/twitter/follow/yataji?style=social)](https://twitter.com/yassinoubil3)
+[![GitHub yataji](https://img.shields.io/github/followers/yataji?style=social)](https://github.com/yataji)
 [![Linkedin: imthepk](https://img.shields.io/badge/-yataji-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yassinetaji/)](https://www.linkedin.com/in/yassinetaji/)
 
 
