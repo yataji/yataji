@@ -50,9 +50,9 @@
 [![GitHub yataji](https://img.shields.io/github/followers/yataji?style=social)](https://github.com/yataji)
 [![Linkedin: yassinetaji](https://img.shields.io/badge/-yataji-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yassinetaji/)](https://www.linkedin.com/in/yassinetaji/)
 
-<details>
-<!-- <summary>👨🏽‍💻 MY PORFOLIO: IN PROGRESS...</summary> -->
 <p>👨🏽‍💻 MY PORFOLIO: IN PROGRESS...</p>
+<!-- <details> -->
+<!-- <summary>👨🏽‍💻 MY PORFOLIO: IN PROGRESS...</summary> -->
 <!-- <a href="https://portfolio-pi-gilt-96.vercel.app/">have a look</a> -->
-</details>
+<!-- </details> -->
 </div>
