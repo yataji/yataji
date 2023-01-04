@@ -1,35 +1,58 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there 👋 Nice to see you.</h1>
-<p>Welcome to my page! </br> My name is Yassine, I’m currently studying at 1337 Coding school
+<div align="center">
+<a href="https://www.linkedin.com/in/yassinetaji/"><h1>HI I'M YASSINE :wave:</h1></a>
 
-<h3>Things I code with</h3>
-<p>
-  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="css3" src="https://img.shields.io/badge/css-yellow?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="docker" src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="unix/linux" src="https://img.shields.io/badge/unix/linux-orange?style=for-the-badge&logo=linux&logoColor=white" />
-  <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
-  <img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
-  <img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/>
-  <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
+<img  width="100%" src="https://free4kwallpapers.com/uploads/originals/2020/10/19/minimal-dark-coding-wallpaper.png"/>
 
-</p>
+### I'M A SOFTWARE ENGINEERING STUDENT
 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=yataji)](https://github.com/yataji)
+### 👨🏽‍💻 I’M CURRENTLY STUDYING AT  [1337 CODING SCHOOL](https://1337.ma)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yataji&theme=merko)](https://github.com/yataji)
+ <summary><h3>I CODE WITH<h3></summary>
+   
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+<!-- ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yataji&layout=demo&theme=merko)](https://github.com/yataji)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+![PHP](https://img.shields.io/badge/-Php-%23007ACC?style=flat-square&logo=php)
+<!-- ![NJs](https://img.shields.io/badge/-Node-%23007ACC?style=flat-square&logo=nodejs) -->
+![](https://img.shields.io/badge/-C-%23007ACC?style=flat-square&logo=c)
+![Mysql](https://img.shields.io/badge/-Mysql-%23007ACC?style=flat-square&logo=mysql)
+![docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
+![Unix/Linux](https://img.shields.io/badge/unix/linux-orange?style=for-the-badge&logo=linux&logoColor=white)
+  
+<details>
+ <summary><h3>MY GITHUB STATS<h3></summary>
+<a href="https://github.com/yataji?tab=repositories" target="_blank">
+  <img  height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yataji&theme=github_dark"/>
+</a>
+<br>
+<a href="https://github.com/yataji?tab=repositories" target="_blank">
+  <img  height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yataji&theme=github_dark"/>
+</a>
+<a href="https://github.com/yataji?tab=repositories" target="_blank">
+  <img  height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yataji&theme=github_dark&utcOffset=8"/>
+</a>
+<br>
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=83wid&layout=demo&show_icons=true)](https://github.com/83wid) -->
+<a href="https://github.com/yataji?tab=repositories" target="_blank">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yataji&theme=github_dark"/>
+</a>
+<a href="https://github.com/yataji?tab=repositories" target="_blank">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yataji&theme=github_dark"/>
+</a>
+</details>
 
-- 👨🏽‍💻 I’m currently studying at  [1337 School](https://1337.ma)
-
-[![Twitter: imthepk](https://img.shields.io/twitter/follow/yataji?style=social)](https://twitter.com/yassinoubil3)
+[![Twitter: y4t4ji](https://img.shields.io/twitter/follow/y4t4ji?style=social)](https://twitter.com/y4t4aji)
 [![GitHub yataji](https://img.shields.io/github/followers/yataji?style=social)](https://github.com/yataji)
-[![Linkedin: imthepk](https://img.shields.io/badge/-yataji-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yassinetaji/)](https://www.linkedin.com/in/yassinetaji/)
+[![Linkedin: yassinetaji](https://img.shields.io/badge/-yataji-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yassinetaji/)](https://www.linkedin.com/in/yassinetaji/)
 
-
+<details>
+<!-- <summary>👨🏽‍💻 MY PORFOLIO: IN PROGRESS...</summary> -->
+<p>👨🏽‍💻 MY PORFOLIO: IN PROGRESS...</p>
+<!-- <a href="https://portfolio-pi-gilt-96.vercel.app/">have a look</a> -->
+</details>
+</div>
